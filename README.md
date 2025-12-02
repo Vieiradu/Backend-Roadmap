@@ -19,9 +19,9 @@ Meu objetivo é sair do **zero** e me tornar um **desenvolvedor backend júnior*
 
 
 ## Próximos Passos
-- [] Concluir curso de certificação GitHub dio.
-- [] Concluir curso de algoritimo DIO para afiar ainda mais o machado.
-- [] Concluir modulos 6 e 7 curso Django Udemy.
+- [x] Concluir curso de certificação GitHub dio.
+- [x] Concluir curso de algoritimo DIO para afiar ainda mais o machado.
+- [x] Concluir modulos 6 e 7 curso Django Udemy.
 
 **Acompanhe meu progresso neste repositório!**
 
