@@ -1,3 +1,12 @@
+'''
+        ### Fatiamento ###
+    
+    Além de acessar elementos diretamente, podemos extrair um conjunto de valores de uma sequência.
+    Para isso basta passar o índice inicial e/ou final para acessar o conjunto. Podemos ainda
+    informar quantas posições o cursor deve "pular" no acesso.
+
+'''
+
        #0123456789  
 nome = "Luiz Eduardo David Vieira"
 
